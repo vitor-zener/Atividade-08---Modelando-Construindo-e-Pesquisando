@@ -58,7 +58,7 @@ Este projeto está sob a licença MIT.
 ## 👤 Autor
 
 Seu Nome
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- GitHub: [@vitor-zener](https://github.com/vitor-zener)
 ```
 
 **Arquivo: `.gitignore`**
